@@ -1,0 +1,116 @@
+#+CATEGORY: paper, congreso, comunicación
+#+TAGS: género, web semántica
+#+DESCRIPTION: Comunicación para el congreso de Periodisimo, mujer y comunicación
+#+TITLE: JPD17, V Jornadas de Periodismo de Datos
+#+DATE: <2017-01-16 lun 10:30>
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+OPTIONS: todo:nil pri:nil tags:nil ^:nil 
+
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:nil
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight markdown notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+
+* Nombre
+V Jornadas de Periodismo de Datos, JPD17, datos abiertos
+* Temática
+- Datos abiertos
+- Datos personales
+- Datos ciudadanxs
+* Contacto
+Puedes escribirnos a datosperiodismo (@) gmail.com
+
+- Adolfo Antón Bravo
+- Pilar López López
+
+O crear una issue
+* Fechas
+3-6 Mayo
+* Comunicación
+- [[https://github.com/jpdatos][Github jpdatos]]
+- Web
+- [[https://twitter.com/datosperiodismo][Twitter]]
+- [[https://www.facebook.com/Jornadas-de-Periodismo-de-Datos-1541942802770368/?fref=ts][Facebook]]
+- [[https://periodismodatos.slack.com/][Slack]]
+- Instagram
+- [[https://www.flickr.com/photos/146680132@N02/][Flickr]]
+- Telegram
+* Comunidad
+- Call 4 Participation
+* Sedes
+
+Repetiremos en Madrid y si todo sigue igual, las posibles sedes serían:
+- Asociación de la Prensa de Madrid
+- Medialab-Prado
+- Fundación Telefónica
+* Estudiantes
+- Cómo llegar a estudiantes
+* Profesionales
+- Cómo llegar a profesionales
+* Patrocinio
+- Necesitamos buscar posibles patrocinios.
+* Comunicación
+- Redes sociales
+- Equipo prensa
+- Fotos
+- Vídeos
+- Periodistas
+
+* Call for Papers
+Os invitamos a enviar resúmenes de las ponencias (máximo 600 palabras) antes del 1 de julio en los temas siguientes o en otros relacionados.
+
+Antecedentes del Periodismo de datos: periodismo científico o periodismo de precisión.
+Periodismo y redes sociales: más allá de twitter, facebook, linkedin…
+Periodismo y entornos web multimedia: Web, HTML, Javascript.
+Periodismo y Web Semántica: geolocalización, RDF, Linked Data, Open Data, Open Government, mapeo, etc.
+Tecnologías relacionadas con el Periodismo de datos: recopilación, análisis, visualización.
+Casos de éxito
+Iniciativas relacionadas
+Nuevas narrativas
+Licencias libres
+Software y hardware libre
+¿Otros? Propone 
+Hace unos años, al mismo tiempo que la Web (World Wide Web) se renombraba como Web 2.0, algunas personas decidieron hablar de Periodismo 2.0. Si la Web supuso el acceso a documentos HTML realizados por personas o instituciones diversas, la Web 2.0 buscaba una actualización de esa Web dado que las tecnologías de acceso y de producción de contenidos se habían popularizado de tal manera que la cantidad de webs, documentos HTML e información disponible se multiplicaba exponencialmente y no “cabía” dentro la anterior definición. Por tanto, el Periodismo 2.0
+
+se hacía eco de esa producción de información desde blogs o redes sociales por parte de ciudadanxs interconectadxs.
+
+Al ser la Web un medio en continua evolución, de un tiempo a esta parte parece que el término Web 2.0 se ha quedado desfasado para explicar el momento actual de la Web, y se lleva hablando de Web 3.0 así como de Periodismo 3.0, por contaminación del medio de producción de información y de comunicación de masas.
+
+Lo que ha evolucionado de la Web, en sus distintas versiones, son aspectos de la Web Semántica, una evolución natural -o por lo menos así definida por su creador, el británico Tim Berners-Lee- de la Web. Si en la Web hay una semántica que permite estructurar la información de tal forma que aparezcan documentos HTML que conocemos como páginas web, en la Web Semántica las distintas tecnologías que operan permiten una mayor semántica de tal forma que la Web nos “entienda” y pueda mostrarnos la información más elaborada y más precisa.
+
+Una de las tecnologías estrella de la Web Semántica y de plena actualidad es Linked Data o Datos vinculados. Sin entrar demasiado en sus aspectos técnicos, definimos los Datos vinculados como datos que se conectan con otros datos de una manera estructurada y legible por tecnologías web. Esto se expresa en RDF, el lenguaje “natural” de la Web Semántica. Si estos datos están disponibles en las páginas web y se “publican” como tal, nos encontramos con los Linked Open Data o Datos Vinculados Abiertos.
+
+En este conjunto de tecnologías de producción y acceso a la información se desarrolla y cobra importancia el Periodismo de Datos, sobre la base del gran volumen de datos -información- disponibles en la Web actual, ya sean abiertos, vinculados, públicos o extraíbles, y propone nuevas narrativas para contar la realidad.
+
+Hay quienes han relacionado el Periodismo 3.0 con el nuevo periodismo ciudadano, pero esto no sería del todo correcto ya que por un lado también ocurrió con el periodismo 2.0 y por otro, no es tanto la ciudadanía como sus datos, entre otros, lo que permiten este tipo de periodismo.
+
+Si bien encontramos antecedentes en el Periodismo científico o en el periodismo de precisión y se puede confundir con simples infografías más elaboradas ,o bien con una simple utilización adecuada del medio Web -si es que podemos hablar de la Web como medio, tendríamos que mezclar todo lo anterior para acercarnos a una descripción del mismo.
+
+El periodismo de datos aprovecha ese gran volumen de datos más o menos públicos y más o menos accesibles en webs y bases de datos a través de herramientas informáticas de búsqueda, filtrado y selección y por último muestra los datos de diversas formas posibles, en formato papel o audiovisual, vía web o TV. De hecho, en las universidades donde se está enseñando esta asignatura hay un conjunto de saberes técnicos, periodísticos y de diseño.
+
+Si en todo el mundo son varias las universidades que se fijan en esta disciplina, en España es un fenómeno relativamente nuevo. Tanto que lo encontramos en noviembre de 2011 en el V Congreso de Periodismo en Red, celebrado en nuestra facultad y en cuyo comité científico estuvo el Dr. Wenceslao Castañares; y en la pasada edición de los Cursos de Verano del Escorial de la Universidad Complutense. También contemplan su estudio, entre otras asignaturas, en el Máster de Periodismo ABC UCM. Este año es el primero que El Mundo realiza el “Master en Periodismo de Investigación, Datos y Visualización”, junto con la Universidad Rey Juan Carlos y Google. Por su parte, la Universidad de Navarra destaca por la formación de periodistas o infografistas. Y de todas las iniciativas de formación, la que ha destacado ha sido la serie de conferencias y talleres organizadas en Medialab Prado
+
+Por tanto, la Sexta Edición del Encuentro Internacional de Investigación en Información y Comunicación (EIIC) se centrará en el Periodismo y la Web Semántica, donde tiene cabida de manera destacada el Periodismo de Datos. Pretendemos que la  Facultad de Ciencias de la Información ocupe un lugar destacado en el estudio e investigación de los temas más candentes de la comunicación contemporánea y también para que los estudiantes de la Universidad Complutense, de la educación pública o personas cualesquiera puedan acercarse a conocer, difundir, participar o formarse.
+
+Os invitamos a enviar resúmenes de las ponencias antes del 1 de julio en los temas siguientes o en otros relacionados.
+
+Antecedentes del Periodismo de datos: periodismo científico o periodismo de precisión.
+Periodismo y redes sociales: más allá de twitter, facebook, linkedin…
+Periodismo y entornos web multimedia: Web, HTML, Javascript.
+Periodismo y Web Semántica: geolocalización, RDF, Linked Data, Open Data, Open Government, mapeo, etc.
+Tecnologías relacionadas con el Periodismo de datos: recopilación, análisis, visualización.
+Casos de éxito
+Iniciativas relacionadas
+Conclusiones: una nueva narrativa contemporánea
